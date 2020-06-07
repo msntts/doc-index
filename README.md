@@ -5,4 +5,4 @@
 
 ### [読書感想](https://github.com/msntts/book-report)
 
-- [KAIZEN JOURNEY](https://github.com/msntts/book-report)
+- [KAIZEN JOURNEY](https://github.com/msntts/book-report/blob/master/reports/KAIZEN_JOURNY.md)
